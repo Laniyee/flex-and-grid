@@ -44,6 +44,14 @@ div{padding: 2em;
     background-color: white;
    
   }
+a{ border-radius: 0; 
+    border: 0;
+    padding: 0;
+    display: inline-block;
+    margin: 0;
+    
+ 
+}
   .first{
     color:orange;
     border-radius: 25px; 
