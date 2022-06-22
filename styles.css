@@ -44,14 +44,9 @@ div{padding: 2em;
     background-color: white;
    
   }
-a{ border-radius: 0; 
-    border: 0;
-    padding: 0;
-    display: inline-block;
-    margin: 0;
-    
- 
-}
+.one{color:orange;}
+.two{color:rgb(57,139,128);}
+.three{ color: rgb(4, 29, 16);}
   .first{
     color:orange;
     border-radius: 25px; 
