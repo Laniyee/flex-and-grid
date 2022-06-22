@@ -44,9 +44,7 @@ div{padding: 2em;
     background-color: white;
    
   }
-.one{color:orange;}
-.two{color:rgb(57,139,128);}
-.three{ color: rgb(4, 29, 16);}
+
   .first{
     color:orange;
     border-radius: 25px; 
@@ -84,3 +82,6 @@ div{padding: 2em;
     cursor: pointer;
     font-weight: bold;
   }
+.one{color:orange;}
+.two{color:rgb(57,139,128);}
+.three{ color: rgb(4, 29, 16);}
