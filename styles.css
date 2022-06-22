@@ -1,0 +1,83 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: aliceblue;
+}
+.wrapper{
+    width: 50%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    border-radius: 12px;
+    border: none;
+}
+p{
+    padding-bottom: 3em;
+    color: white;
+
+
+}
+h3{
+    padding-bottom: 1em;
+    padding-top: 1em;
+    color: white;
+}
+div{padding: 2em;
+
+ }
+.sedan{
+    background-color: orange;
+
+}
+.suv{
+    background-color: rgb(57, 139, 128);
+    
+}
+.luxury{
+    background-color: rgb(4, 29, 16);
+}
+.button {
+    background-color: white;
+   
+  }
+  .first{
+    color:orange;
+    border-radius: 25px; 
+    border: 12px;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    font-weight: bold;
+
+  }
+  .second{
+    color: rgb(57, 139, 128);
+    border-radius: 25px; 
+    border: 12px;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    font-weight: bold;
+  }
+  .third{
+    color: rgb(4, 29, 16);
+    border-radius: 25px; 
+    border: 12px;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    font-weight: bold;
+  }
